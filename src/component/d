@@ -1,0 +1,42 @@
+<div className="">
+  <div className="">
+    <p>TOP FOODS</p>
+    <p>Our Categories</p>
+  </div>
+  <div>
+    <div>
+      <img src="" />
+    </div>
+    <div>
+      <p>Pizza</p>
+      <p>20 Restaurants Foods</p>
+    </div>
+  </div>
+  <div>
+    <div>
+      <img src="" />
+    </div>
+    <div>
+      <p>Pasta</p>
+      <p>15 Restaurants Foods</p>
+    </div>
+  </div>
+  <div>
+    <div>
+      <img src="" />
+    </div>
+    <div>
+      <p>Shakes</p>
+      <p>20 Restaurants Foods</p>
+    </div>
+  </div>
+  <div>
+    <div>
+      <img src="" />
+    </div>
+    <div>
+      <p>Burger</p>
+      <p>25 Restaurants Foods</p>
+    </div>
+  </div>
+</div>
