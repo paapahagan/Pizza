@@ -23,7 +23,7 @@ function Body() {
           </div>
         </div>
         <div>
-          <button className=" bg-yellow-400 text-white font-bold p-4 ">
+          <button className=" bg-yellow-400 text-white font-bold p-4  hover:text-slate-700">
             ORDER ONLINE
           </button>
         </div>

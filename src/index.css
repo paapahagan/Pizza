@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 .bg-custom {
   background-color: rgba(0, 0, 0, 0);
   background-image: url("./public/images/Mask group.svg");
@@ -5,6 +9,3 @@
   background-position: center;
   background-size: cover;
 }
-@tailwind base;
-@tailwind components;
-@tailwind utilities;

@@ -2,12 +2,12 @@ import React from "react";
 
 function Categories() {
   return (
-    <div className="">
+    <div className="pb-5">
       {/* hEADER */}
-      <div className="container flex justify-center">
-        <div className="border">
+      <div className="container flex justify-center pt-11">
+        <div className="">
           <div className="flex justify-center">
-            <p className="font-bold">TOP FOODS</p>
+            <p className="font-bold text-yellow-400 mb-4">TOP FOODS</p>
           </div>
           <div>
             <p className="text-5xl font-bold">Our Categories</p>
@@ -23,10 +23,10 @@ function Categories() {
             </div>
             <div className="grid content-center">
               <div className="flex justify-center">
-                <p>Pizza</p>
+                <p className="font-bold text-xl mb-4">Pizza</p>
               </div>
               <div className="flex justify-center">
-                <p>20 Restaurants Foods</p>
+                <p className="font-bold">20 Restaurants Foods</p>
               </div>
             </div>
           </div>
@@ -37,10 +37,10 @@ function Categories() {
             </div>
             <div className="grid content-center">
               <div className="flex justify-center">
-                <p className="">Pasta</p>
+                <p className="font-bold text-xl mb-4">Pasta</p>
               </div>
               <div className="flex justify-center">
-                <p>15 Restaurants Foods</p>
+                <p className="font-bold">15 Restaurants Foods</p>
               </div>
             </div>
           </div>
@@ -51,10 +51,10 @@ function Categories() {
             </div>
             <div className="grid content-center">
               <div className="flex justify-center">
-                <p className="">Shakes</p>
+                <p className="font-bold text-xl mb-4">Shakes</p>
               </div>
               <div className="flex justify-center">
-                <p>20 Restaurants Foods</p>
+                <p className="font-bold">20 Restaurants Foods</p>
               </div>
             </div>
           </div>
@@ -64,11 +64,11 @@ function Categories() {
               <img src="./images/burger.png" />
             </div>
             <div className="grid content-center">
-              <div className="flex justify-center">
-                <p className="">Burger</p>
+              <div className="flex justify-center ">
+                <p className="font-bold text-xl mb-4">Burger</p>
               </div>
               <div className="flex justify-center">
-                <p>25 Restaurants Foods</p>
+                <p className="font-bold">25 Restaurants Foods</p>
               </div>
             </div>
           </div>
