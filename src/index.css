@@ -2,10 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-.bg-custom {
+/* .bg-custom {
   background-color: rgba(0, 0, 0, 0);
   background-image: url("./images/Mask group.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-}
+} */

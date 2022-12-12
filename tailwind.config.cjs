@@ -5,6 +5,11 @@ module.exports = {
     container: {
       center: true,
     },
+    extend: {
+      backgroundImage: {
+        "hero-pattern": "url('/images/Mask group.svg')",
+      },
+    },
   },
   plugins: [],
 };

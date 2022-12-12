@@ -2,7 +2,7 @@ import React from "react";
 
 function Body() {
   return (
-    <div className="w-full pt-20 h-screen max-h-screen bg-custom">
+    <div className="w-full pt-20 h-screen max-h-screen bg-hero-pattern  bg-cover ">
       <section className="container grid content-around min-h-[70%]">
         <div className="">
           <p className="text-2xl text-white font-bold">Only $15.00</p>
