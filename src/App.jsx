@@ -6,6 +6,9 @@ import Ship from "./component/Ship";
 import Outlet from "./component/Outlet";
 import AdOne from "./component/AdOne";
 import Team from "./component/Team";
+import AdTwo from "./component/AdTwo";
+import Logos from "./component/Logos";
+import Footer from "./component/Footer";
 
 function App() {
   return (
@@ -17,6 +20,9 @@ function App() {
       <Outlet />
       <AdOne />
       <Team />
+      <AdTwo />
+      <Logos />
+      <Footer />
     </div>
   );
 }

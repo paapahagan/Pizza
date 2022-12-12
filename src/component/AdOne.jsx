@@ -2,7 +2,7 @@ import React from "react";
 
 function AdOne() {
   return (
-    <div className="flex justify-center pt-10 pb-10">
+    <div className="flex justify-center pt-20 pb-10">
       <div className="flex justify-between">
         <div className="mr-10">
           <div className="pb-5">
